@@ -10,12 +10,11 @@
 
 ### 👨‍💻 Currently Learning
 - Full Stack Development (MERN)
-- System Design & DevOps
 - Quantum Computing (Research Enthusiast ⚛️)
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,react,nodejs,mongodb,mysql,py,html,css,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,mongodb,mysql,py,html,css,git,github,vscode" />
 </p>
 
 ---
@@ -44,8 +43,8 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="mailto:arunulagappan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/arunulagappan/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:sarunulagappan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/arunulagappan2024/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---

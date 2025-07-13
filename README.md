@@ -1,6 +1,7 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ArunUlagappan/ArunUlagappan/main/assets/banner.png" alt="Banner" width="100%" />
+<p align="center"><img width="940" height="250" alt="github-header-image" src="https://github.com/user-attachments/assets/9ecd49fe-9d1c-4d07-a721-b6feb4ced227" alt="Banner" width="100%" />
+
+  
 </p>
 
 <p align="center">

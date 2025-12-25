@@ -33,15 +33,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArunUlagappan&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ArunUlagappan&theme=tokyonight" />
-</p>
-
----
-
 ### 📌 Most Used Languages
 
 <p align="center">

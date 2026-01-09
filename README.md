@@ -51,19 +51,15 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArunUlagappan&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunUlagappan&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArunUlagappan&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunUlagappan&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
-
----
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArunUlagappan&theme=darkhub&no-frame=true&margin-w=15&title=Stars,Commits,Followers,PullRequest,Issues,Repositories" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArunUlagappan&theme=onedark&no-frame=true&margin-w=10"/>
 </p>
 
----
 
 ## 🌐 Connect With Me
 

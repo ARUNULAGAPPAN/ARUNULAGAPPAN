@@ -14,34 +14,50 @@
 </h3>
 
 ---
+<h1 align="center">Hi 👋, I'm Arun Ulagappan</h1>
+<h3 align="center">Full Stack (MERN) Developer | Quantum Computing Enthusiast | ML Explorer</h3>
 
-### 👨‍💻 About Me
-- 🚀 I build Full Stack (MERN) Applications
-- ⚛️ Passionate about Quantum Computing Research
-- 🤖 Currently exploring Machine Learning
-- 🤝 A strong believer in Teamwork and Collaboration
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArunUlagappan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/ArunUlagappan?label=Followers&style=flat&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/ArunUlagappan?label=Stars&style=flat&color=0e75b6" />
+</p>
 
 ---
 
-### 💻 Technologies I Work With
+## 👨‍💻 About Me
+
+* 🚀 Building **scalable Full Stack (MERN) applications**
+* ⚛️ Passionately exploring **Quantum Computing & Post-Quantum Cryptography**
+* 🤖 Currently learning **Machine Learning & Data-Driven Systems**
+* 🤝 Strong believer in **teamwork, collaboration, and knowledge sharing**
+* 🎯 Goal: **Create impactful tech solutions that blend theory with real-world applications**
+
+---
+
+## 💻 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,nodejs,express,mongodb,github,git,netlify,vscode,vercel,postman" /><br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,nodejs,express,mongodb,git,github,netlify,vercel,vscode,postman" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Design-Canva-blue?style=flat-square&logo=canva" />
   <img src="https://img.shields.io/badge/Editing-Kinemaster-red?style=flat-square&logo=kinemaster" />
 </p>
 
 ---
 
-### 📌 Most Used Languages
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunUlagappan&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArunUlagappan&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunUlagappan&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ArunUlagappan&theme=darkhub&no-frame=true&margin-w=15&title=Stars,Commits,Followers,PullRequest,Issues,Repositories" />
@@ -49,35 +65,43 @@
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:sarunulagappan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/arunulagappan2024/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/the__great__rex/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🔥 Fun Fact
+## 🔥 Fun Fact
 
-> “The best code is written not alone, but together.” – Arun Ulagappan 💻👥
+> **“The best code is written not alone, but together.”**  
+> — *Arun Ulagappan*
 
 ---
 
-### 🚀 Support My Journey
+## 🚀 Support My Journey
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArunUlagappan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  ⭐ Star my repositories if you find them useful  \
+  🤝 Open to collaborations & discussions  \
+  💡 Always learning, always building
 </p>
 
 <p align="center">
-  ❤️ Follow me on GitHub: [@ArunUlagappan](https://github.com/ArunUlagappan)<br>
-  🔥 Follow my Insta: [@the__great__rex](https://www.instagram.com/the__great__rex/)
+  <a href="https://github.com/ArunUlagappan">❤️ Follow me on GitHub</a> •
+  <a href="https://www.instagram.com/the__great__rex/">🔥 Follow me on Instagram</a>
 </p>
+
+---
+
+<p align="center"><i>"Code. Collaborate. Create Impact."</i></p>
+>

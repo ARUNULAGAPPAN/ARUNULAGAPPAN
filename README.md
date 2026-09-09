@@ -25,10 +25,10 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-* 🚀 Building **scalable Full Stack (MERN) applications**
-* ⚛️ Passionately exploring **Quantum Computing & Post-Quantum Cryptography**
+*  Building **scalable Full Stack (MERN) applications**
+*  Passionately exploring **Quantum Computing & Post-Quantum Cryptography**
 * 🤖 Currently learning **Machine Learning & Data-Driven Systems**
 * 🤝 Strong believer in **teamwork, collaboration, and knowledge sharing**
 * 🎯 Goal: **Create impactful tech solutions that blend theory with real-world applications**

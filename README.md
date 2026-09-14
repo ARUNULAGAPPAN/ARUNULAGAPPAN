@@ -98,6 +98,4 @@
 </p>
 
 ---
-
-<p align="center"><i>"Code. Collaborate. Create Impact."</i></p>
 >

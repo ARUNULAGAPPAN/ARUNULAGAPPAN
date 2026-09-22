@@ -87,7 +87,6 @@
 <p align="center">
   ⭐ Star my repositories if you find them useful  \
   🤝 Open to collaborations & discussions  \
-  💡 Always learning, always building
 </p>
 
 <p align="center">

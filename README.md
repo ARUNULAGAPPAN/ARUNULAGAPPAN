@@ -85,7 +85,7 @@
 ---
 
 <p align="center">
-  ⭐ Star my repositories if you find them useful  \
+  ⭐ Star my repositories if you find them useful  
 </p>
 
 <p align="center">

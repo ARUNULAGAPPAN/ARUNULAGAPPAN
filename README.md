@@ -85,7 +85,7 @@
 ---
 
 <p align="center">
-  ⭐ Star my repositories 
+   Star my repositories 
 </p>
 
 <p align="center">

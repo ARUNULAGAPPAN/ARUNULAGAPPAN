@@ -85,8 +85,7 @@
 ---
 
 <p align="center">
-     Star my repositories 
-     Upvote my Solution
+     Star my repositories !
 </p>
 
 <p align="center">

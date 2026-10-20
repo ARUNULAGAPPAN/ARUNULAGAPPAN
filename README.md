@@ -44,7 +44,7 @@
 <br/>
 
 ```diff
-+ ROLE      : Computer Science Engineering Student (pre-final year)
++ ROLE      : Computer Science Engineering Student 
 + CAMPUS    : MIT Campus, Anna University
 + PRIMARY   : MERN full-stack development
 + EXPLORING : Quantum Computing | Post-Quantum Cryptography | Machine Learning
